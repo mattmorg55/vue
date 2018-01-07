@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Natty",
+		"pick": 38000,
+		"paid": true
+	},
+	{
+		"name": "Matt M",
+		"pick": 100000,
+		"paid": true
+	},
+	{
+		"name": "Robert",
+		"pick": 60000,
+		"paid": true
+	},
+	{
+		"name": "Dan",
+		"pick": 30000,
+		"paid": true
+	},
+	{
+		"name": "Alexis",
+		"pick": 40000,
+		"paid": true
+	},
+	{
+		"name": "Damien",
+		"pick": 25000,
+		"paid": false
+	},
+	{
+		"name": "Anup",
+		"pick": 25001,
+		"paid": false
+	},
+	{
+		"name": "Kortney",
+		"pick": 23179,
+		"paid": false
+	},
+	{
+		"name": "Matt S",
+		"pick": 27000,
+		"paid": false
+	},
+	{
+		"name": "Bill",
+		"pick": 18000,
+		"paid": false
+	},
+	{
+		"name": "Rich",
+		"pick": 24000,
+		"paid": false
+	}
+]
